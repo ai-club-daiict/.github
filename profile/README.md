@@ -18,6 +18,10 @@ Throughout the academic year, we organize a range of activities to spark interes
 - **Projects and Research Initiatives:** Collaborations on projects that solve real-world problems, from healthcare to finance.
 - **Guest Lectures and Seminars:** Insights and experiences from industry leaders and researchers in the AI field.
 
+#### Our Team
+- Convenor: [Jash Shah](https://github.com/jash0803)
+- Deputy Convenor: [Sharvil Oza](https://github.com/so-19)
+
 #### Join Us!
 
 Whether you’re just getting started or already deep into AI, the AI Club at DA-IICT invites you to join us on this exciting journey. Discover, innovate, and create with us as we shape the future of AI.
